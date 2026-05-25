@@ -2,6 +2,11 @@
 
 This project investigates deep learning approaches for multi-horizon residential electricity consumption forecasting using the UCI Individual Household Electric Power Consumption dataset. Two neural sequence architectures, Long Short-Term Memory (LSTM) networks and Transformer encoders, were implemented and evaluated under an identical preprocessing and training pipeline to enable a controlled architectural comparison.
 
+
+Link to the UCI Individual Household Electric Power Consumption Dataset:
+
+https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
+
 ## Objectives
 - Forecast residential electricity consumption over a 24-hour horizon
 - Compare recurrent (LSTM) and attention-based (Transformer) sequence models
